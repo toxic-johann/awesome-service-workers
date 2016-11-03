@@ -6,8 +6,6 @@ A curated collection of service worker resources.
 >
 > -- <cite>[Mozilla Developer Network - Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)</cite>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
 ## Contents
