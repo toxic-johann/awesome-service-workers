@@ -46,6 +46,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [Can I Use - Service Workers](http://caniuse.com/#feat=serviceworkers) - Up-to-date browser support table of ServiceWorker API.
 - [Jake Archibald - Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/) - Current status of ServiceWorker support in different browsers.
+- [Toxic Johann - Is PWA ready ?](https://ispwaready.toxicjohann.com) - Current status of ServiceWorker support in different browsers (including Chinese browsers and auto test page).
 
 ## Libraries and Tools
 
